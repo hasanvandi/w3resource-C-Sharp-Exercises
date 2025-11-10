@@ -1,0 +1,15 @@
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.exe
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.deps.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.runtimeconfig.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\bin\Debug\net8.0\SumOfTwoNumbers.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.AssemblyInfoInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.AssemblyInfo.cs
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.csproj.CoreCompileInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.sourcelink.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\refint\SumOfTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\SumOfTwoNumbers.genruntimeconfig.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SumOfTwoNumbers\SumOfTwoNumbers\obj\Debug\net8.0\ref\SumOfTwoNumbers.dll

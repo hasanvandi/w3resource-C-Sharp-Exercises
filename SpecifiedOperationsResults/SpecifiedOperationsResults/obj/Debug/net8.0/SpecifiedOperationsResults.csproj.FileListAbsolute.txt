@@ -1,0 +1,15 @@
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.exe
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.deps.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.runtimeconfig.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\bin\Debug\net8.0\SpecifiedOperationsResults.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.AssemblyInfoInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.AssemblyInfo.cs
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.csproj.CoreCompileInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.sourcelink.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\refint\SpecifiedOperationsResults.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\SpecifiedOperationsResults.genruntimeconfig.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SpecifiedOperationsResults\SpecifiedOperationsResults\obj\Debug\net8.0\ref\SpecifiedOperationsResults.dll

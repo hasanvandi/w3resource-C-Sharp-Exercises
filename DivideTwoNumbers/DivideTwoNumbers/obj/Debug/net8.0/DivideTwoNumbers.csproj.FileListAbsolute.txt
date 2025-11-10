@@ -1,0 +1,15 @@
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.exe
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.deps.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.runtimeconfig.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\bin\Debug\net8.0\DivideTwoNumbers.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.AssemblyInfoInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.AssemblyInfo.cs
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.csproj.CoreCompileInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.sourcelink.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\refint\DivideTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\DivideTwoNumbers.genruntimeconfig.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\DivideTwoNumbers\DivideTwoNumbers\obj\Debug\net8.0\ref\DivideTwoNumbers.dll
