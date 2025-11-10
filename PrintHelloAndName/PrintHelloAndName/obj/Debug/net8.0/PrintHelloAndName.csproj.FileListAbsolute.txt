@@ -1,0 +1,15 @@
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\bin\Debug\net8.0\PrintHelloAndName.exe
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\bin\Debug\net8.0\PrintHelloAndName.deps.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\bin\Debug\net8.0\PrintHelloAndName.runtimeconfig.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\bin\Debug\net8.0\PrintHelloAndName.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\bin\Debug\net8.0\PrintHelloAndName.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\PrintHelloAndName.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\PrintHelloAndName.AssemblyInfoInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\PrintHelloAndName.AssemblyInfo.cs
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\PrintHelloAndName.csproj.CoreCompileInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\PrintHelloAndName.sourcelink.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\PrintHelloAndName.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\refint\PrintHelloAndName.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\PrintHelloAndName.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\PrintHelloAndName.genruntimeconfig.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\PrintHelloAndName\PrintHelloAndName\obj\Debug\net8.0\ref\PrintHelloAndName.dll
