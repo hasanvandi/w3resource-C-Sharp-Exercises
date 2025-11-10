@@ -1,0 +1,15 @@
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.exe
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.deps.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.runtimeconfig.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\bin\Debug\net8.0\ArithmeticOperations.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.AssemblyInfoInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.AssemblyInfo.cs
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.csproj.CoreCompileInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.sourcelink.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\refint\ArithmeticOperations.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ArithmeticOperations.genruntimeconfig.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\ArithmeticOperations\ArithmeticOperations\obj\Debug\net8.0\ref\ArithmeticOperations.dll
