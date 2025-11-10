@@ -1,0 +1,15 @@
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.exe
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.deps.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.runtimeconfig.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\bin\Debug\net8.0\MultiplicationTable.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfoInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.AssemblyInfo.cs
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.csproj.CoreCompileInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.sourcelink.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\refint\MultiplicationTable.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\MultiplicationTable.genruntimeconfig.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplicationTable\MultiplicationTable\obj\Debug\net8.0\ref\MultiplicationTable.dll
