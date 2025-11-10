@@ -1,0 +1,15 @@
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.exe
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.deps.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.runtimeconfig.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\bin\Debug\net8.0\MultiplyThreeNumbers.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.AssemblyInfoInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.AssemblyInfo.cs
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.csproj.CoreCompileInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.sourcelink.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\refint\MultiplyThreeNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\MultiplyThreeNumbers.genruntimeconfig.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\MultiplyThreeNumbers\MultiplyThreeNumbers\obj\Debug\net8.0\ref\MultiplyThreeNumbers.dll
