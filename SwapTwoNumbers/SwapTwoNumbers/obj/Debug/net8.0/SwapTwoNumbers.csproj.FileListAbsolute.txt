@@ -1,0 +1,15 @@
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.exe
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.deps.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.runtimeconfig.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\bin\Debug\net8.0\SwapTwoNumbers.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.AssemblyInfoInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.AssemblyInfo.cs
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.csproj.CoreCompileInputs.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.sourcelink.json
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\refint\SwapTwoNumbers.dll
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.pdb
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\SwapTwoNumbers.genruntimeconfig.cache
+E:\Git\w3\w3resource-C-Sharp-Exercises\SwapTwoNumbers\SwapTwoNumbers\obj\Debug\net8.0\ref\SwapTwoNumbers.dll
